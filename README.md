@@ -1,4 +1,4 @@
-# Tradovate data importer and visualizer
+# Tradovate data visualizer
 
 ## Prereqs
 
